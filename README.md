@@ -200,7 +200,7 @@ OurLog는 단순히 ‘감상’을 남기는 서비스가 아니라,
 <br>
 
 ## 🔄 개발 프로세스
-[👉 개발 및 배포 프로세스 & Git 컨벤션 가이드 바로가기](https://github.com/jueunk617/ourlog-java/wiki/%F0%9F%9A%80-%EA%B0%9C%EB%B0%9C-%EB%B0%8F-%EB%B0%B0%ED%8F%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-&-Git-%EC%BB%A4%EB%B2%A4%EC%88%9C-%EC%B0%80%EC%9D%B4%EB%93%9C)
+[👉 개발 및 배포 프로세스 & Git 컨벤션 가이드 바로가기](https://github.com/jueunk617/ourlog-java/wiki/%F0%9F%9A%80-%EA%B0%9C%EB%B0%9C-%EB%B0%8F-%EB%B0%B0%ED%8F%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%26-Git-%EC%BB%A8%EB%B2%A4%EC%85%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
 
 <br>
 
