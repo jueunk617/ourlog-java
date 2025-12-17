@@ -19,7 +19,7 @@
 <br>
 
 ## 🖼️ 프로젝트 소개
-[![pyoji.png](https://i.postimg.cc/y8bYQ1V4/pyoji.png)](https://postimg.cc/tsFj7HZ2)
+[![pyoji.png](https://i.postimg.cc/qqhR8NBY/pyoji.png)](https://postimg.cc/LgS2S61B)
 > **감상을 기록하고 나누는 감성 공유 플랫폼, OurLog**
 
 **OurLog**는 영화·음악·책 등 다양한 콘텐츠 감상을  
@@ -97,7 +97,7 @@ OurLog는 단순히 ‘감상’을 남기는 서비스가 아니라,
 <br>
 
 ## 🧩 ERD 
-[![image.png](https://i.postimg.cc/5yDW50BS/image.png)](https://postimg.cc/wR5rg9b1)
+[![ERD5.png](https://i.postimg.cc/GtCLsqN8/ERD5.png)](https://postimg.cc/Kk0S6rmx)
 
 <br>
 
@@ -178,7 +178,7 @@ OurLog는 단순히 ‘감상’을 남기는 서비스가 아니라,
 <br>
 
 ## 🌐 시스템 아키텍처
-[![siseutem-akitegcheo-seolgye.png](https://i.postimg.cc/VvZLxmj0/siseutem-akitegcheo-seolgye.png)](https://postimg.cc/2LvDvp9C)
+[![siseutem-akitegcheo-seolgye.png](https://i.postimg.cc/7Zdy2KJ1/siseutem-akitegcheo-seolgye.png)](https://postimg.cc/PCWcGz4N)
 
 <br>
 
